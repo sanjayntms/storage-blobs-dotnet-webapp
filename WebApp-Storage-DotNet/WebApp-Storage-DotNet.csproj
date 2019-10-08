@@ -186,6 +186,7 @@
     <Content Include="Scripts\esm\popper-utils.js.map" />
     <Content Include="Connected Services\AzureStorage1\ConnectedService.json" />
     <None Include="Properties\PublishProfiles\WebApp-Storage-DotNet20191008083459 - Web Deploy.pubxml" />
+    <None Include="Properties\PublishProfiles\win1 - Web Deploy.pubxml" />
     <None Include="Scripts\jquery-3.4.1.intellisense.js" />
     <Content Include="Scripts\jquery-3.4.1.js" />
     <Content Include="Scripts\jquery-3.4.1.min.js" />
